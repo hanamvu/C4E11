@@ -1,0 +1,8 @@
+C:\Users\hoahu\Documents\Projects\HomeworkSS6\HomeworkSS6\bin\Debug\HomeworkSS6.exe
+C:\Users\hoahu\Documents\Projects\HomeworkSS6\HomeworkSS6\bin\Debug\HomeworkSS6.pdb
+C:\Users\hoahu\Documents\Projects\HomeworkSS6\HomeworkSS6\obj\x86\Debug\HomeworkSS6.exe
+C:\Users\hoahu\Documents\Projects\HomeworkSS6\HomeworkSS6\obj\x86\Debug\HomeworkSS6.pdb
+E:\NamVH\C4E11\Homework\C4E11\SS6\HomeworkSS6\HomeworkSS6\bin\Debug\HomeworkSS6.exe
+E:\NamVH\C4E11\Homework\C4E11\SS6\HomeworkSS6\HomeworkSS6\bin\Debug\HomeworkSS6.pdb
+E:\NamVH\C4E11\Homework\C4E11\SS6\HomeworkSS6\HomeworkSS6\obj\x86\Debug\HomeworkSS6.exe
+E:\NamVH\C4E11\Homework\C4E11\SS6\HomeworkSS6\HomeworkSS6\obj\x86\Debug\HomeworkSS6.pdb
